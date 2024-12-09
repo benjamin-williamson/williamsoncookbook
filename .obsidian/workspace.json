@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "52dd1a0492fd9fb1",
+        "id": "2de52d670d7caef0",
         "type": "tabs",
         "children": [
           {
-            "id": "840e366359fe3e42",
+            "id": "6ac979a31168dbe0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/foundations/focaccia.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "focaccia"
+              "title": "New tab"
             }
           }
         ]
@@ -164,11 +160,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "840e366359fe3e42",
+  "active": "6ac979a31168dbe0",
   "lastOpenFiles": [
+    "Clippings/Cacio e Pepe Recipe.md",
+    "recipes/foundations/focaccia.md",
     "Resume Building Blocks.pdf",
     "recipes/foundations/bolognese.md",
-    "recipes/foundations/focaccia.md",
     "menus/Dec 7 - Dec 13.md",
     "pictures/chip-sandwiches.png",
     "pictures/chocy-chip-cookies.png",
@@ -197,7 +194,6 @@
     "theme.css",
     "archive/gruvbox-theme-publish.css",
     "archive/publish.css",
-    "archive",
     "welcome.md",
     "chef.png"
   ]
