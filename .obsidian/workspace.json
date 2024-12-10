@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2de52d670d7caef0",
+        "id": "4c983f83a5873fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "6ac979a31168dbe0",
+            "id": "26a40e8a911b5b6b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6ac979a31168dbe0",
+  "active": "00ab8f7a5c7b70ec",
   "lastOpenFiles": [
+    "recipes/foundations/ranch-dressing.md",
     "Clippings/Cacio e Pepe Recipe.md",
     "recipes/foundations/focaccia.md",
     "Resume Building Blocks.pdf",
