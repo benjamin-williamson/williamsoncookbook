@@ -3,24 +3,24 @@
 Pizza
 
 ### Sunday
-Poulet au Vin Blanc
-- Carottes Vichy
-- French Potato puree 
+None
 
 ### Monday
 Buffalo Chicken Wraps
 
 ### Tuesday
-Cornflake Chicken 
+Chicken Philly 
 
 ### Wednesday 
-Wonton soup 
-
-### Thursday 
 shrimp stir fry 
 
+### Thursday 
+Poulet au Vin Blanc
+- Carottes Vichy
+- French Potato puree 
+
 ### Friday 
-Chicken Philly 
+BBQ Chicken
 
 ### Saturday 
 Focaccia and Bolognese 
