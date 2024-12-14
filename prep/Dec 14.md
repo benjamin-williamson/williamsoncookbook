@@ -4,8 +4,11 @@
 - Cut Chicken 
 - Pizza Dough 
 - Puppy Chow 
-- Cookies
+- Scotcharoos
 - Rendered Chicken Fat 
+
+# Sunday 
+- Cookie Dough
 
 # Monday 
 - Take out chicken thighs Monday morning 
@@ -14,9 +17,7 @@
 
 # Wednesday 
 - Tortilla Strips 
-
-# Thursday 
-- Tiramisu? Want to have tiramisu after ramen 
+- Cut Pineapple
 
 
 - Pinto Beans 
