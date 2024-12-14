@@ -1,41 +1,43 @@
 
 # Sams Club 
 - [ ] 2 Whole Chicken 
-- [ ] Tomatoes 
 - [ ] Yogurt 
 - [ ] Eggs 
+- [ ] Milk 
 - [ ] Cucumbers 
 - [ ] Blueberries 
 - [ ] Grapes 
+- [ ] 1 Pineapple
 - [ ] Oranges 
 - [ ] Apples 
-- [ ] Milk 
 - [ ] Sour Dough (x2) 
 - [ ] Cashews 
 - [ ] Hand Soap 
-
-# Other 
-- [ ] Mozzarella 
-- [ ] 2 Can Tomatoes 
-- [ ] 2 White Onions 
-- [ ] 2 Red Onions 
-- [ ] 1 Avocado 
 - [ ] Dry Peppers (mexican)
-- [ ] 1 Lemon 
+- [ ] Hamburger Buns 
+- [ ] Drinks
+
+# Aldi 
+- [ ] Mozzarella 
+- [ ] White Onions 
+- [ ] Red Onions 
+- [ ] 1 Avocado 
 - [ ] 1 Jalapeño
 - [ ] Cilantro 
-- [ ] 1 Can Pineapple
-- [ ] Corn Tortilla??
-- [ ] Hamburger Buns 
-- [ ] Dukes Mayo 
-- [ ] Ramen Noodles 
+- [ ] Corn Tortilla
 - [ ] Green Onion 
 - [ ] Garlic 
 - [ ] Cheese 
-- [ ] Peanut Butter 
 - [ ] Jam 
 - [ ] Pinto Beans 
-- [ ] Flour Tortilla? 
+- [ ] Flour Tortilla
 - [ ] Heavy Whipping Cream 
-- [ ] Drinks 
+- [ ] Butter
 - [ ] Chips 
+
+# Hyvee
+- [ ] Peanut Butter 
+- [ ] Dukes Mayo 
+- [ ] 1 Lemon 
+- [ ] 3 San Marzano 
+- [ ] 12 pack soda 
