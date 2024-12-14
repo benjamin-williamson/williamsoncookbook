@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/foundations/white-wine-pan-sauce.md",
+                "file": "menus/Dec 14 - Dec 21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "white-wine-pan-sauce"
+              "title": "Dec 14 - Dec 21"
             }
           }
         ]
@@ -164,9 +164,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "26a40e8a911b5b6b",
+  "active": "00ab8f7a5c7b70ec",
   "lastOpenFiles": [
-    "menus/Dec 7 - Dec 13.md",
+    "grocery lists/Dec 14.md",
+    "prep/Dec 14.md",
+    "menus/Dec 14 - Dec 21.md",
+    "prep",
+    "grocery lists",
+    "menus/Archived/Dec 7 - Dec 13.md",
     "recipes/foundations/white-wine-pan-sauce.md",
     "recipes/foundations/ranch-dressing.md",
     "Clippings/Cacio e Pepe Recipe.md",
@@ -198,8 +203,6 @@
     "book-logo.png.crdownload",
     "publish.css",
     "theme.css",
-    "archive/gruvbox-theme-publish.css",
-    "archive/publish.css",
     "welcome.md",
     "chef.png"
   ]

@@ -1,0 +1,40 @@
+
+# Sams Club 
+- 2 Whole Chicken 
+- Tomatoes 
+- Yogurt 
+- Eggs 
+- Cucumbers 
+- Blueberries 
+- Grapes 
+- Oranges 
+- Apples 
+- Milk 
+- Sour Dough (x2)
+- Chips 
+- Cashews 
+- Hand Soap 
+
+# Other 
+- Mozzarella 
+- 2 Can Tomatoes 
+- 2 White Onions 
+- 2 Red Onions 
+- 1 Avocado 
+- Dry Peppers 
+- 1 Lemon 
+- 1 Jalapeño
+- Cilantro 
+- 1 Can Pineapple
+- Corn Tortilla??
+- Hamburger Buns 
+- Dukes Mayo 
+- Ramen Noodles 
+- Green Onion 
+- Garlic 
+- Cheese Peanut Butter 
+- Jam 
+- Pinto Beans 
+- Flour Tortilla? 
+- Heavy Whipping Cream 
+- Drinks 
