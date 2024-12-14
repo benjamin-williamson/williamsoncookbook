@@ -7,7 +7,6 @@
 - [ ] Cucumbers 
 - [ ] Blueberries 
 - [ ] Grapes 
-- [ ] 1 Pineapple
 - [ ] Oranges 
 - [ ] Apples 
 - [ ] Sour Dough (x2) 
@@ -38,6 +37,7 @@
 - [ ] Onion Powder 
 - [ ] Garlic Powder
 - [ ] Juice
+- [ ] 1 Can pineapple
 
 # Hyvee
 - [ ] Peanut Butter 
