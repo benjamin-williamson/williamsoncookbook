@@ -15,11 +15,9 @@
 - [ ] Hand Soap 
 - [ ] Dry Peppers (mexican)
 - [ ] Hamburger Buns 
-- [ ] Drinks
 
 # Aldi 
 - [ ] Mozzarella 
-- [ ] White Onions 
 - [ ] Red Onions 
 - [ ] 1 Avocado 
 - [ ] 1 Jalapeño
@@ -27,13 +25,19 @@
 - [ ] Corn Tortilla
 - [ ] Green Onion 
 - [ ] Garlic 
-- [ ] Cheese 
+- [ ] Cheese - (swiss and gouda)
 - [ ] Jam 
 - [ ] Pinto Beans 
 - [ ] Flour Tortilla
 - [ ] Heavy Whipping Cream 
 - [ ] Butter
 - [ ] Chips 
+- [ ] Rice Crispy Cereal
+- [ ] Light Corn Syrup 
+- [ ] Butter Scotch Chips
+- [ ] Onion Powder 
+- [ ] Garlic Powder
+- [ ] Juice
 
 # Hyvee
 - [ ] Peanut Butter 
