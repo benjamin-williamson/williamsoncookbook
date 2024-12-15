@@ -17,11 +17,11 @@
 - **Monday** 
 	- Pizza 
 - **Tuesday** 
-	- Chicken Sandwiches 
+	- Pasta
 - **Wednesday** 
 	- Smash Burgers 
 - **Thursday** 
-	- Chicken Tinga Bowls / Burrito Bowls 
+	- Chicken Tinga Bowls
 - **Friday** 
 	- [[shoyu-ramen]] 
 
