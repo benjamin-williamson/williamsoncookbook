@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grocery lists/Dec 14.md",
+                "file": "recipes/foundations/The 5 Mother Sauces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dec 14"
+              "title": "The 5 Mother Sauces"
             }
           }
         ]
@@ -166,16 +166,19 @@
   },
   "active": "26a40e8a911b5b6b",
   "lastOpenFiles": [
-    "menus/Dec 14 - Dec 21.md",
-    "prep/Dec 14.md",
-    "grocery lists/Dec 14.md",
-    "grocery lists/Price Tracker/Aldi.md",
-    "recipes/desserts/scotcharoos.md",
     "grocery lists/Price Tracker/Amazon.md",
+    "recipes/foundations/The 5 Mother Sauces.md",
+    "recipes/foundations/Sauces",
+    "grocery lists/Price Tracker/Aldi.md",
+    "grocery lists/Archived/Dec 14.md",
+    "menus/Dec 14 - Dec 21.md",
+    "grocery lists/Archived",
+    "grocery lists/Untitled.md",
+    "prep/Dec 14.md",
+    "recipes/desserts/scotcharoos.md",
     "grocery lists/Price Tracker/Hyvee.md",
     "grocery lists/Price Tracker/Sams Club.md",
     "grocery lists/Price Tracker",
-    "grocery lists/Untitled.md",
     "prep",
     "grocery lists",
     "menus/Archived/Dec 7 - Dec 13.md",
@@ -200,14 +203,11 @@
     "pictures/IMG_0714.jpg",
     "untitled folder",
     "recipes/foundations/browned-butter.md",
-    "Clippings/How to Brown Butter (Easy Tutorial) - Sally's Baking Addiction.md",
     "Clippings",
     "favicon.ico",
     "favicon-32x32.png",
     "icons8-chef-32.png",
     "book-logo.png",
-    "book-logo.png.crdownload",
-    "publish.css",
     "chef.png"
   ]
 }
