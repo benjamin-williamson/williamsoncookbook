@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96445603bfd5eadc",
+        "id": "38572c5028a0ef6d",
         "type": "tabs",
         "children": [
           {
-            "id": "396d2a0a175e6282",
+            "id": "baf532b8878b0693",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -55,6 +55,18 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "296542de508098f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -148,8 +160,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "396d2a0a175e6282",
+  "active": "baf532b8878b0693",
   "lastOpenFiles": [
+    "Clippings/Italian Biscotti Recipe - Tasting Table.md",
+    "ai dinner ideas.md",
     "recipes/foundations/pizza-dough.md",
     "Clippings/Pasta with Pancetta and Tomato Sauce (Pasta all'Amatriciana).md",
     "menus/Dec 14 - Dec 21.md",
@@ -183,8 +197,6 @@
     "recipes/desserts/puppy-chow.md",
     "recipes/desserts/Chocy Chip Cookies.md",
     "recipes/entrees/shoyu-ramen.md",
-    "recipes/entrees/spaghetti.md",
-    "recipes/entrees/potato-soft-taco.md",
     "pictures/IMG_0714.jpg",
     "untitled folder",
     "Clippings",
