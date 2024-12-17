@@ -11,10 +11,14 @@
             "id": "baf532b8878b0693",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "recipes/entrees/all-amatriciana-w-pancetta.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "all-amatriciana-w-pancetta"
             }
           }
         ]
@@ -69,7 +73,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,10 +165,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "baf532b8878b0693",
+  "active": "296542de508098f3",
   "lastOpenFiles": [
+    "recipes/entrees/all-amatriciana-w-pancetta.md",
     "Clippings/Italian Biscotti Recipe - Tasting Table.md",
-    "ai dinner ideas.md",
+    "Clippings/ai dinner ideas.md",
     "recipes/foundations/pizza-dough.md",
     "Clippings/Pasta with Pancetta and Tomato Sauce (Pasta all'Amatriciana).md",
     "menus/Dec 14 - Dec 21.md",
@@ -196,7 +202,6 @@
     "recipes/drinks/espresso-brewing-workflow.md",
     "recipes/desserts/puppy-chow.md",
     "recipes/desserts/Chocy Chip Cookies.md",
-    "recipes/entrees/shoyu-ramen.md",
     "pictures/IMG_0714.jpg",
     "untitled folder",
     "Clippings",
