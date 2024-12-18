@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/entrees/all-amatriciana-w-pancetta.md",
+                "file": "menus/planned.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "all-amatriciana-w-pancetta"
+              "title": "planned"
             }
           }
         ]
@@ -165,9 +165,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "296542de508098f3",
+  "active": "baf532b8878b0693",
   "lastOpenFiles": [
     "recipes/entrees/all-amatriciana-w-pancetta.md",
+    "menus/planned.md",
     "Clippings/Italian Biscotti Recipe - Tasting Table.md",
     "Clippings/ai dinner ideas.md",
     "recipes/foundations/pizza-dough.md",
@@ -201,7 +202,6 @@
     "menus/Archived",
     "recipes/drinks/espresso-brewing-workflow.md",
     "recipes/desserts/puppy-chow.md",
-    "recipes/desserts/Chocy Chip Cookies.md",
     "pictures/IMG_0714.jpg",
     "untitled folder",
     "Clippings",
