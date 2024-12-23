@@ -1,27 +1,29 @@
-# planned draft 
+# Weekly Menu  
+Saturday: 
+Filet Mignon 
+
+Sunday:
+NA
 
 Monday: 
 Cheese Pizza 
 Peperoni Pizza
+	Buffalo Garlic Honey 
 
 Tues:
-BBQ Chicken Mac n Cheese
+NA
 
 Wed: 
-Croque Monsieur
+BBQ Chicken Mac n Cheese
 
 Thurs:
-Chicken Piccata
+Croque Monsieur
 
 Friday: 
-Lobster Roll or Shrimp Scampi
-
-Saturday: 
 Stir Fry 
 
 snacks: 
 cheese and crackers 
-rice cakes 
 cucumber sandwich 
 
 desserts 
