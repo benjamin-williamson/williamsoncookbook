@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "38572c5028a0ef6d",
+        "id": "3c4027e735f9833f",
         "type": "tabs",
         "children": [
           {
-            "id": "baf532b8878b0693",
+            "id": "c99c8d73b92924b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "menus/Dec22-Dec28.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dec22-Dec28"
+              "title": "New tab"
             }
           }
         ]
@@ -165,12 +161,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "baf532b8878b0693",
+  "active": "c99c8d73b92924b0",
   "lastOpenFiles": [
-    "menus/Archived/Dec 14 - Dec 21.md",
-    "menus/Archived/Dec 7 - Dec 13.md",
-    "menus/Archived/Dec 1 - Dec 7.md",
-    "menus/Dec22-Dec28.md",
+    "grocery lists/Dec28.md",
+    "menus/Dec28-Jan3.md",
+    "menus/Archived/2024",
+    "menus/Archived/2024/December",
+    "menus/Archived/2024/December/Dec 1 - Dec 7.md",
+    "recipes/entrees/chipoltle-melt-sandwiches.md",
+    "menus/Archived/2024/December/Dec22-Dec28.md",
+    "menus/Archived/2024/December/Dec 14 - Dec 21.md",
+    "menus/Archived/2024/December/Dec 7 - Dec 13.md",
     "recipes/entrees/all-amatriciana-w-pancetta.md",
     "Clippings/Italian Biscotti Recipe - Tasting Table.md",
     "Clippings/ai dinner ideas.md",
@@ -195,17 +196,11 @@
     "Clippings/Cacio e Pepe Recipe.md",
     "recipes/foundations/focaccia.md",
     "Resume Building Blocks.pdf",
-    "recipes/foundations/bolognese.md",
     "pictures/chip-sandwiches.png",
     "pictures/chocy-chip-cookies.png",
-    "recipes/drinks/steamed-milk-latte.md",
     "menus/Archived",
-    "recipes/drinks/espresso-brewing-workflow.md",
-    "recipes/desserts/puppy-chow.md",
     "pictures/IMG_0714.jpg",
     "untitled folder",
-    "Clippings",
-    "favicon.ico",
     "favicon-32x32.png",
     "icons8-chef-32.png",
     "book-logo.png",
