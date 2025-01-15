@@ -18,3 +18,10 @@ The goal of this digital cookbook is to allow the family access to a refined lib
 - Allie
 - Noah
 - Mom
+
+# Recipes 
+- [[Foundations]] 
+- Entrees 
+- Drinks 
+- Snacks and Sides
+- Desserts
