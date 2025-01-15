@@ -11,10 +11,14 @@
             "id": "c99c8d73b92924b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "recipes/foundations/caesar-dressing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "caesar-dressing"
             }
           }
         ]
@@ -163,6 +167,12 @@
   },
   "active": "c99c8d73b92924b0",
   "lastOpenFiles": [
+    "recipes/foundations/browned-butter.md",
+    "recipes/foundations/caesar-dressing.md",
+    "recipes/foundations/chicken-bone-broth.md",
+    "Clippings/Homemade Caesar Salad Dressing - Once Upon a Chef.md",
+    "Clippings/Broccoli Cheddar Soup - Love and Lemons.md",
+    "Clippings/archive",
     "grocery lists/Dec28.md",
     "menus/Dec28-Jan3.md",
     "menus/Archived/2024",
@@ -173,10 +183,10 @@
     "menus/Archived/2024/December/Dec 14 - Dec 21.md",
     "menus/Archived/2024/December/Dec 7 - Dec 13.md",
     "recipes/entrees/all-amatriciana-w-pancetta.md",
-    "Clippings/Italian Biscotti Recipe - Tasting Table.md",
-    "Clippings/ai dinner ideas.md",
+    "Clippings/archive/Italian Biscotti Recipe - Tasting Table.md",
+    "Clippings/archive/ai dinner ideas.md",
     "recipes/foundations/pizza-dough.md",
-    "Clippings/Pasta with Pancetta and Tomato Sauce (Pasta all'Amatriciana).md",
+    "Clippings/archive/Pasta with Pancetta and Tomato Sauce (Pasta all'Amatriciana).md",
     "prep/Dec 14.md",
     "recipes/foundations/The 5 Mother Sauces.md",
     "grocery lists/Price Tracker/Amazon.md",
@@ -191,16 +201,11 @@
     "grocery lists/Price Tracker",
     "prep",
     "grocery lists",
-    "recipes/foundations/white-wine-pan-sauce.md",
-    "recipes/foundations/ranch-dressing.md",
-    "Clippings/Cacio e Pepe Recipe.md",
-    "recipes/foundations/focaccia.md",
     "Resume Building Blocks.pdf",
     "pictures/chip-sandwiches.png",
     "pictures/chocy-chip-cookies.png",
     "menus/Archived",
     "pictures/IMG_0714.jpg",
-    "untitled folder",
     "favicon-32x32.png",
     "icons8-chef-32.png",
     "book-logo.png",
