@@ -23,10 +23,10 @@
 - **Thursday** 
 	- Chicken Tinga Bowls
 - **Friday** 
-	- [[shoyu-ramen]] 
+	- [[Shoyu Ramen]] 
 
 # Desserts 
-- [[Chocy Chip Cookies]]
-- [[puppy-chow]]
-- [[scotcharoos]] 
+- [[Chocolate Chip Cookies]]
+- [[Puppy Chow]]
+- [[Scotcharoos]] 
 

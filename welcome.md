@@ -1,27 +1,48 @@
 # Welcome to the Williamson Digital Cookbook
+If you want to learn more about this site and how to navigate it, visit the [[about]] page. 
 
-On this site you will find a collection of various different recipes spanning different cultures. Each recipe is categorized on the food type (foundational, entree, etc.)
 
-It is worth mentioning that if you see "Dependencies" listed on any of the recipes, that means that it requires another staple or foundational recipe before you can make the main dish. I will try to maintain backlinks to all of the dependencies to make it easier to navigate. 
+- ## Foundational 
+	- ### Sauces and Condiments 
+		- [[Caesar Dressing]]
+		- [[Chilli Crunch]]
+		- [[Chipoltle Mayo]]
+		- [[Ranch Dressing]]
+		- [[The 5 Mother Sauces]]
+		- [[Tomato Garlic Confit]]
+		- [[White Wine Pan Sauce]]
+		- [[Browned Butter]]
+		- [[Pickled Anything]]
+		- [[Shoyu Tare]]
+		- [[Soft Boiled Eggs]]
+	- ### Bread
+		- [[Focaccia]]
+		- [[Pizza Dough]]
+- ## Drinks
+	- ### Coffee 
+		- [[Gaggia Espresso]]
+		- [[Gaggia Hot Latte]]
+		- #### Sauce and Syrup
+			- [[Mocha Sauce]]
+- ## Sides and Snacks 
+	- [[Fried Potato Chips]]
+- ## Entrees 
+	- ### Pasta
+		- [[All Amatriciana with Pancetta]]
+		- [[Shoyu Ramen]]
+		- [[Spaghetti]]
+		- [[Bolognese]]
+	- ### Soup
+		- [[Broccoli Cheddar Soup]]
+		- [[Chicken Bone Broth]]
+	- ### Sandwiches
+		- [[Chipoltle Chicken Melt]]
+	- ### Tacos 
+		- [[Potato Soft Taco]]
+- ## Desserts 
+	- [[Chocolate Chip Cookies]]
+	- [[Puppy Chow ]]
+	- [[Scotcharoos]]
 
-As more recipes are added to the library, more thorough folder organization will be possible. I plan to add folders for vegetarian options, breads, sauces, and so on. 
 
-Please send your recipes to me and I will add them to the cookbook. 
 
-### Goal 
-
-The goal of this digital cookbook is to allow the family access to a refined library of recipes and ingredients. It will eventually include ingredients and where to find/order them. Some recipes may take 5 minutes to make, and some may take a full week to finish. Overall, you should be sharing a "primo" dish every day together. 
-
-### Contributors
-
-- Ben 
-- Allie
-- Noah
-- Mom
-
-# Recipes 
-- [[Foundations]] 
-- Entrees 
-- Drinks 
-- Snacks and Sides
-- Desserts

@@ -1,10 +1,10 @@
 # Shoyu Ramen 
 
 ### Dependencies 
-- [[ramen-eggs]]
-- [[shoyu-tare]]
-- [[chilli-crunch]]
-- [[chicken-bone-broth]] 
+- [[Soft Boiled Eggs]]
+- [[Shoyu Tare]]
+- [[Chilli Crunch]]
+- [[Chicken Bone Broth]] 
 
 ### Ingredients 
 - 1cup Broth 

@@ -1,7 +1,7 @@
 # Better than TBell Potato Soft Taco
 
 ### Dependencies 
-[[chipoltle-mayo]]
+[[Chipoltle Mayo]]
 
 ### Ingredients 
 - 2 pounds Russet potatoes

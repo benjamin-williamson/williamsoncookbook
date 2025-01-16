@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/foundations/Foundations.md",
+                "file": "welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foundations"
+              "title": "welcome"
+            }
+          },
+          {
+            "id": "70147df3a15f431a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,37 +180,38 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3853890d1227b439",
+  "active": "70147df3a15f431a",
   "lastOpenFiles": [
+    "Clippings/archive/ai dinner ideas.md",
     "welcome.md",
+    "recipes/desserts/Puppy Chow.md",
+    "recipes/entrees/All Amatriciana with Pancetta.md",
+    "recipes/entrees/Bolognese.md",
+    "recipes/drinks/Gaggia Hot Latte.md",
+    "about.md",
     "recipes/foundations/Foundations.md",
     "recipes/foundations/recipes",
-    "recipes/foundations/recipes/chipoltle-mayo.md",
-    "recipes/entrees/cheddar-broccoli-soup.md",
-    "Clippings/Broccoli Cheddar Soup - Love and Lemons 1.md",
+    "recipes/foundations/Chipoltle Mayo.md",
+    "recipes/entrees/Broccoli Cheddar Soup.md",
+    "Clippings/archive/Broccoli Cheddar Soup - Love and Lemons 1.md",
     "Clippings/Broccoli Cheddar Soup - Love and Lemons.md",
-    "recipes/foundations/recipes/caesar-dressing.md",
-    "recipes/foundations/recipes/browned-butter.md",
-    "recipes/foundations/recipes/chicken-bone-broth.md",
-    "Clippings/Homemade Caesar Salad Dressing - Once Upon a Chef.md",
+    "recipes/foundations/Caesar Dressing.md",
+    "recipes/foundations/Browned Butter.md",
+    "recipes/foundations/Chicken Bone Broth.md",
+    "Clippings/archive/Homemade Caesar Salad Dressing - Once Upon a Chef.md",
     "Clippings/archive",
     "grocery lists/Dec28.md",
     "menus/Dec28-Jan3.md",
     "menus/Archived/2024",
     "menus/Archived/2024/December",
     "menus/Archived/2024/December/Dec 1 - Dec 7.md",
-    "recipes/entrees/chipoltle-melt-sandwiches.md",
+    "recipes/entrees/Chipoltle Chicken Melt.md",
     "menus/Archived/2024/December/Dec22-Dec28.md",
     "menus/Archived/2024/December/Dec 14 - Dec 21.md",
     "menus/Archived/2024/December/Dec 7 - Dec 13.md",
-    "recipes/entrees/all-amatriciana-w-pancetta.md",
     "Clippings/archive/Italian Biscotti Recipe - Tasting Table.md",
-    "Clippings/archive/ai dinner ideas.md",
-    "recipes/foundations/recipes/pizza-dough.md",
+    "recipes/foundations/Pizza Dough.md",
     "Clippings/archive/Pasta with Pancetta and Tomato Sauce (Pasta all'Amatriciana).md",
-    "prep/Dec 14.md",
-    "recipes/foundations/recipes/The 5 Mother Sauces.md",
-    "grocery lists/Price Tracker/Amazon.md",
     "recipes/foundations/Sauces",
     "grocery lists/Archived",
     "grocery lists/Price Tracker",

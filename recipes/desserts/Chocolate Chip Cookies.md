@@ -1,7 +1,7 @@
 ### Go to Chocy Chip Cookies 
 
 ### Dependencies 
-[[browned-butter]]
+[[Browned Butter]]
 
 ### Ingredients 
 - .75 cup (150g) granulated sugar 
